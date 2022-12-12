@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anastasia Tumanova
-- 🌱 I’m currently learning  at SSTU in the second year of the institute INPIT, direction "Information systems and technologies"
+- 🌱 I’m currently learning  at SSTU in the third year of the institute INPIT, direction "Information systems and technologies"
 - 📫 How to reach me:
 - VK: https://vk.com/anastasiatumanova00
 - Email: tumanova_nastya2000@mail.ru
