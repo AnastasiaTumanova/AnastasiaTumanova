@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Anastasia Tumanova
-- 🌱 I’m currently learning  at SSTU in the third year of the institute INPIT, direction "Information systems and technologies"
+- 🌱 I'am studying at SSTU in my fourth year at the INPIT Institute, majoring in Information Systems and Technologies.
 - 📫 How to reach me:
 - VK: https://vk.com/anastasiatumanova00
 - Email: tumanova_nastya2000@mail.ru
+- I use Java, MySQL, SQL Server, Docker, C#, SQLite
